@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kang Wei"
-description              : "Postdoctoral fellow. Focusing on privacy-preserving machine learning."
-repository               : "https://adamwei-boop.github.io/kang.wei.github.io/"
+title                    : "Xiumei Deng"
+description              : "Postdoctoral fellow. Focusing on distributed machine learning."
+repository               : "https://github.com/Activate96/Dengxiumei-boop.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kang Wei"
+  name             : "Xiumei Deng"
   avatar           : "Kang_Wei.jpg"
-  bio              : "The Hong Kong Polytechnic University"
-  location         : "Hong Kong, China"
+  bio              : "Singapore University of Technology and Design"
+  location         : "Sinapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=CYqbLN8AAAAJ"
-  email            : "kangwei@polyu.edu.hk"
-  researchgate     : "https://www.researchgate.net/profile/Kang-Wei?ev=hdr_xprf"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=O8zf2YIAAAAJ"
+  email            : "xiumei_deng@sutd.edu.sg"
+  researchgate     : "https://www.researchgate.net/profile/Deng-Xiumei-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/AdamWei-boop"
+  github           : "https://github.com/Activate96"
   google_plus      :
   keybase          :
   instagram        :
