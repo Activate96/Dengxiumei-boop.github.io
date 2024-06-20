@@ -39,7 +39,7 @@ redirect_from:
 - *2021-2023*: Outstanding Doctoral Program, Awarded by Nanjing University of Science and Technology
 
 # 📖 Educations
-- *2023.01 - now*: Post-doctoral Fellow, Singapore University of Technology and Design, Singapore 
+- *2024.06 - now*: Post-doctoral Fellow, Singapore University of Technology and Design, Singapore 
 - *2018.09 - 2024.03*: Ph.D., Nanjing University of Science and Technology, Nanjing China
 - *2014.09 - 2018.06*: B.E., Nanjing University of Science and Technology, Nanjing China
 - *2011.09 - 2014.06*: High school, Haian Senior School of Jiangsu Province, Nantong China 
