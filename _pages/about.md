@@ -30,7 +30,7 @@ redirect_from:
 - <p align="justify"> <u><b>Xiumei Deng</b></u>, Jun Li, Chuan Ma, Kang Wei, Long Shi, Ming Ding, Wen Chen, Low-latency federated learning with DNN partition in distributed industrial IoT networks, <u><b>IEEE Journal on Selected Areas in Communications</b></u>, 2022. </p>
 - <p align="justify"> <u><b>Xiumei Deng</b></u>, Jun Li, Chuan Ma, Kang Wei, Long Shi, Ming Ding, Wen Chen, H Vincent Poor, Blockchain assisted federated learning over wireless channels: Dynamic resource allocation and client scheduling, <u><b>IEEE Transactions on Wireless Communications</b></u>, 2022. </p>
 - <p align="justify"> Taotao Wang, Long Shi, Jessie Hui Wang, Zhe Wang, <u><b>Xiumei Deng</b></u>, Jun Li, Shengli Zhang, Building trust via blockchain in UAV‐assisted ultra‐dense 6G cellular networks, <u><b>IET Blockchain</b></u>, 2022. </p>
-- <p align="justify"> <u><b>Xiumei Deng</b></u>, Jun Li, Long Shi, Zhe Wang, Jessie Hui Wang, Taotao Wang, On dynamic resource allocation for blockchain assisted federated learning over wireless channels, <u><b>IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics)</b></u>, 2021. </p>
+- <p align="justify"> <u><b>Xiumei Deng</b></u>, Jun Li, Long Shi, Zhe Wang, Jessie Hui Wang, Taotao Wang, On dynamic resource allocation for blockchain assisted federated learning over wireless channels, <u><b>IEEE International Conferences on Cyber, Physical and Social Computing (CPSCom)</b></u>, 2021. </p>
 - <p align="justify"> <u><b>Xiumei Deng</b></u>, Jun Li, Long Shi, Zhiqiang Wei, Xiaobo Zhou, Jinhong Yuan, Wireless powered mobile edge computing: Dynamic resource allocation and throughput maximization, <u><b>IEEE Transactions on Mobile Computing</b></u>, 2020. </p>
 
 
@@ -42,6 +42,6 @@ redirect_from:
 
 # 📖 Educations
 - *2024.06 - now*: Post-doctoral Fellow, Singapore University of Technology and Design, Singapore 
-- *2018.09 - 2024.03*: Ph.D., Nanjing University of Science and Technology, Nanjing China
-- *2014.09 - 2018.06*: B.E., Nanjing University of Science and Technology, Nanjing China
-- *2011.09 - 2014.06*: High school, Haian Senior School of Jiangsu Province, Nantong China 
+- *2018.09 - 2024.03*: Ph.D., Nanjing University of Science and Technology, Nanjing, China
+- *2014.09 - 2018.06*: B.E., Nanjing University of Science and Technology, Nanjing, China
+- *2011.09 - 2014.06*: High school, Haian Senior School of Jiangsu Province, Nantong, China 
