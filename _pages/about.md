@@ -21,7 +21,7 @@ redirect_from:
 
 <p align="justify"> My research interests mainly focus on Edge Generative AI, On-Device Large Language Models, Distributed Machine Learning, Network Optimization, and Blockchain. </p>
 
-<p align="justify"> If you're interested in my research or just want to have a chat, please feel free to drop me an email at xiumei_deng@sutd.edu.sg. I'm always happy to make new connections and swap ideas (81% extraverted, MBTI😉). Looking forward to some inspiring exchanges! </p>
+<p align="justify"> If you're interested in my research or just want to have a chat, please feel free to drop me an email at xiumei_deng@sutd.edu.sg. I'm always happy to make new connections and swap ideas. Looking forward to some inspiring exchanges! </p>
 
 
 # 📝 Publications
