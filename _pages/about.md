@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p align="justify"> I am currently a postdoctoral fellow at the Singapore University of Technology and Design, honored to work with <a href = "https://sites.google.com/view/zehuixiong"><b>Prof. Zehui Xiong</b></a>. I received the Ph.D. degree in Information and Communications Engineering from Nanjing University of Science and Technology, Nanjing, China, in 2024, supervised by <a href = "https://scholar.google.com/citations?user=pg2qGzQAAAAJ&hl=zh-CN"><b>Prof. Jun Li</b></a>. Before that, I received the B.E. degree in Electronic Information Engineering from Nanjing University of Science and Technology, in 2018. From Jan. 2018 to Jun. 2018, I was an exchange student at Technische Universität München, Germany, supervised by <a href = "https://scholar.google.de/citations?user=dCvUPdoAAAAJ&hl=de"><b>Prof. Thomas F. Eibert</b></a>. </p>
+<p align="justify"> I am currently a postdoctoral research fellow at the Singapore University of Technology and Design, honored to work with <a href = "https://sites.google.com/view/zehuixiong"><b>Prof. Zehui Xiong</b></a>. I received the Ph.D. degree in Information and Communications Engineering from Nanjing University of Science and Technology, Nanjing, China, in 2024, supervised by <a href = "https://scholar.google.com/citations?user=pg2qGzQAAAAJ&hl=zh-CN"><b>Prof. Jun Li</b></a>. Before that, I received the B.E. degree in Electronic Information Engineering from Nanjing University of Science and Technology, in 2018. From Jan. 2018 to Jun. 2018, I was an exchange student at Technische Universität München, Germany, supervised by <a href = "https://scholar.google.de/citations?user=dCvUPdoAAAAJ&hl=de"><b>Prof. Thomas F. Eibert</b></a>. </p>
 
 <p align="justify"> My research interests mainly focus on Edge Generative AI, On-Device Large Language Models, Distributed Machine Learning, Network Optimization, and Blockchain. </p>
 
@@ -41,7 +41,7 @@ redirect_from:
 - *2021-2023*: Outstanding Doctoral Program, Awarded by Nanjing University of Science and Technology
 
 # 📖 Educations
-- *2024.06 - now*: Post-doctoral Fellow, Singapore University of Technology and Design, Singapore 
+- *2024.06 - now*: Post-doctoral research Fellow, Singapore University of Technology and Design, Singapore 
 - *2018.09 - 2024.03*: Ph.D., Nanjing University of Science and Technology, Nanjing, China
 - *2014.09 - 2018.06*: B.E., Nanjing University of Science and Technology, Nanjing, China
 - *2011.09 - 2014.06*: High school, Haian Senior School of Jiangsu Province, Nantong, China 
